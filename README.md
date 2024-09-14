@@ -26,7 +26,7 @@ Run the `hotel.py` script in your Python environment. The program will guide you
 
 ## Code Example
 
-```python
+```plaintext
 
 *******Welcome to Blitz Cafe********
 
